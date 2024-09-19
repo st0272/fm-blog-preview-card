@@ -26,10 +26,10 @@ Users should be able to:
 ### Screenshot
 
 desctop  
-![desktop](./images/screenshot_desktop.png)
+![desktop](./assets/images/screenshot_desktop.png)
 
 mobile  
-![mobile](./images/screenshot_mobile.png)
+![mobile](./assets/images/screenshot_mobile.png)
 
 ### Links
 
