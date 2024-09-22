@@ -90,6 +90,6 @@ Hover styles applied only on desktop devices and focus styles applied only on to
 
 ## Author
 
-- Website - [Suzunatsu Website](https://www.suzunatsu.com)
+- Website - [Suzunatsu Website](https://www.suzunatsu.com?utm_source=gh)
 - Frontend Mentor - [@st0272](https://www.frontendmentor.io/profile/st0272)
 - Twitter - [@suzuantsu_](https://www.twitter.com/suzuantsu_)
